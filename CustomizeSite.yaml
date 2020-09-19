@@ -12,4 +12,9 @@ payload:
   - DOMAIN,analytics.strava.com,Customize Site
   - DOMAIN,msg.umeng.com,Customize Site
   - DOMAIN,msg.umengcloud.com,Customize Site
+  - DOMAIN-KEYWORD,ccb,Customize Site
+  - DOMAIN-KEYWORD,sanfengyun,Customize Site
+  - DOMAIN-KEYWORD,qq.com,Customize Site
+  - DOMAIN-KEYWORD,tencent,Customize Site
+  - DOMAIN-KEYWORD,weixin,Customize Site
   
