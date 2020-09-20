@@ -14,7 +14,7 @@ payload:
   - DOMAIN-KEYWORD,msg.umengcloud
   - DOMAIN-KEYWORD,ccb
   - DOMAIN-KEYWORD,sanfengyun
-  - DOMAIN-KEYWORD,qq.com
+  - DOMAIN-KEYWORD,qq
   - DOMAIN-KEYWORD,tencent
   - DOMAIN-KEYWORD,weixin
   - DOMAIN-KEYWORD,ixigua
