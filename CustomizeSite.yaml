@@ -1,0 +1,25 @@
+payload:
+  # (Customize Site)
+  - DOMAIN,app.adjust.com,Customize Site
+  - DOMAIN,bdtj.tagtic.cn,Customize Site
+  - DOMAIN,log.mmstat.com,Customize Site
+  - DOMAIN,sycm.mmstat.com,Customize Site
+  - DOMAIN-SUFFIX,googletraveladservices.com,Customize Site
+  - DOMAIN,dl.google.com,Customize Site
+  - DOMAIN,mtalk.google.com,Customize Site
+  - DOMAIN,livew.l.qq.com,Customize Site
+  - DOMAIN,vd.l.qq.com,Customize Site
+  - DOMAIN,analytics.strava.com,Customize Site
+  
+  - DOMAIN-SUFFIX,msg.umeng.com
+  - DOMAIN-SUFFIX,msg.umengcloud.com
+  - DOMAIN-SUFFIX,ccb.com
+  - DOMAIN-SUFFIX,sanfengyun.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN-SUFFIX,ixigua.com
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,zjcdn.com
+  - DOMAIN-SUFFIX,dycdn.com
+  - DOMAIN-SUFFIX,byteimg.com
