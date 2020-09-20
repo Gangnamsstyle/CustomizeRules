@@ -10,8 +10,8 @@ payload:
   - DOMAIN,livew.l.qq.com,Customize Site
   - DOMAIN,vd.l.qq.com,Customize Site
   - DOMAIN,analytics.strava.com,Customize Site
-  - DOMAIN,msg.umeng.com,Customize Site
-  - DOMAIN,msg.umengcloud.com,Customize Site
+  - DOMAIN-KEYWORD,msg.umeng,Customize Site
+  - DOMAIN-KEYWORD,msg.umengcloud,Customize Site
   - DOMAIN-KEYWORD,ccb,Customize Site
   - DOMAIN-KEYWORD,sanfengyun,Customize Site
   - DOMAIN-KEYWORD,qq.com,Customize Site
