@@ -17,4 +17,9 @@ payload:
   - DOMAIN-KEYWORD,qq.com,Customize Site
   - DOMAIN-KEYWORD,tencent,Customize Site
   - DOMAIN-KEYWORD,weixin,Customize Site
+  # Dou Yin
   - DOMAIN-KEYWORD,ixigua,Customize Site
+  - DOMAIN-KEYWORD,amemv,Customize Site
+  - DOMAIN-KEYWORD,snssdk,Customize Site
+  - DOMAIN-KEYWORD,zjcdn,Customize Site
+  - DOMAIN-KEYWORD,dycdn,Customize Site
