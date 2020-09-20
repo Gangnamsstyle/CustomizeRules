@@ -10,14 +10,14 @@ payload:
   - DOMAIN,livew.l.qq.com,Customize Site
   - DOMAIN,vd.l.qq.com,Customize Site
   - DOMAIN,analytics.strava.com,Customize Site
-  - DOMAIN-KEYWORD,msg.umeng,Customize Site
-  - DOMAIN-KEYWORD,msg.umengcloud,Customize Site
-  - DOMAIN-KEYWORD,ccb,Customize Site
-  - DOMAIN-KEYWORD,sanfengyun,Customize Site
-  - DOMAIN-KEYWORD,qq.com,Customize Site
-  - DOMAIN-KEYWORD,tencent,Customize Site
-  - DOMAIN-KEYWORD,weixin,Customize Site
-  - DOMAIN-KEYWORD,ixigua,Customize Site
-  - DOMAIN-KEYWORD,amemv,Customize Site
-  - DOMAIN-KEYWORD,zjcdn,Customize Site
-  - DOMAIN-KEYWORD,dycdn,Customize Site
+  - DOMAIN-KEYWORD,msg.umeng
+  - DOMAIN-KEYWORD,msg.umengcloud
+  - DOMAIN-KEYWORD,ccb
+  - DOMAIN-KEYWORD,sanfengyun
+  - DOMAIN-KEYWORD,qq.com
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,weixin
+  - DOMAIN-KEYWORD,ixigua
+  - DOMAIN-KEYWORD,amemv
+  - DOMAIN-KEYWORD,zjcdn
+  - DOMAIN-KEYWORD,dycdn
