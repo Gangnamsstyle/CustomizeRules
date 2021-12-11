@@ -1,0 +1,18 @@
+# ChinaAway default blocklist
+# Blocking some Chinese Popular services
+127.0.0.1  localhost
+::1  localhost
+
+# [Tencent]
+127.0.0.1 idqqimg.com
+127.0.0.1 igamecj.com
+127.0.0.1 myapp.com
+127.0.0.1 myqcloud.com
+127.0.0.1 qq.com
+127.0.0.1 qqmail.com
+127.0.0.1 servicewechat.com
+127.0.0.1 tencent.com
+127.0.0.1 tencent-cloud.com
+127.0.0.1 tencent-cloud.net
+127.0.0.1 tenpay.com
+127.0.0.1 wechat.com
