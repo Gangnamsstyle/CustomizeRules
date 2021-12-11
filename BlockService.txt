@@ -16,3 +16,4 @@
 127.0.0.1 tencent-cloud.net
 127.0.0.1 tenpay.com
 127.0.0.1 wechat.com
+127.0.0.1 weixin.qq.com
